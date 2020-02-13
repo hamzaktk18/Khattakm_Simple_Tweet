@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Khattakm_Simple_Tweet*
 
 Khattakm_Simple_Tweet is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
