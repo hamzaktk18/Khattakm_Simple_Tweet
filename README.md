@@ -40,6 +40,13 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [ScreenToGif]
 
+<img src='https://github.com/hamzaktk18/Khattakm_Simple_Tweet/blob/master/khattakm_simple_tweet_2.gif' title='Khattakm Simple Tweet Walkthrough 2' width='' alt='Video Walkthrough' />
+
+GIF created with [ScreenToGif]
+
+
+
+
 ## Notes
 
 LiceCap stopped working,
